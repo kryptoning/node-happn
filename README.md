@@ -4,6 +4,8 @@ Node package providing programmatic access to the Happn API
 
 This package is under develop. For now, only authenticate an user.
 
+Inspired in [rickhousley/happn](https://github.com/rickhousley/happn/blob/master/happn/happn.py)
+
 ## Getting Started
 ---
 
