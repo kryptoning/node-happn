@@ -1,0 +1,17 @@
+{
+  "name": "node-happn",
+  "version": "0.1.0",
+  "description": "Node package providing programmatic access to the Happn API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kryptoning @kryptoning",
+  "repository": "https://github.com/kryptoning/node-happn.git",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "request-promise": "^1.0.2"
+  },
+  "devDependencies": {}
+}
